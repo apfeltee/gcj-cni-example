@@ -1,5 +1,8 @@
 *.stackdump
 *.class
+sample
+sample.h
+sample.exe
 
 # extra stuff from https://www.gitignore.io
 ### C++ ###
